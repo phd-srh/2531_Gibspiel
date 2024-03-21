@@ -1,7 +1,7 @@
 public class Main {
  /*
      * Ein Spiel für 2 Spieler.
-     * Jeder Spieler kann 1-10 Steine auf einem Spielbrett plazieren,
+     * Jeder Spieler kann 1-10 Steine auf einem Spielbrett platzieren,
      * selbst gewählt, mindestens eins, maximal 10 Steine.
      * Welcher Spieler den 100. Stein hinlegt, hat gewonnen.
      * Das Spiel beginnt mit einer zufälligen Anzahl von Steinen (10 - 30),
